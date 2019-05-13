@@ -1,0 +1,7 @@
+C:\Users\absalon\source\repos\AireSpring.Test\AireSpring.DAL\bin\Debug\AireSpring.DAL.dll
+C:\Users\absalon\source\repos\AireSpring.Test\AireSpring.DAL\bin\Debug\AireSpring.DAL.pdb
+C:\Users\absalon\source\repos\AireSpring.Test\AireSpring.DAL\obj\Debug\AireSpring.DAL.csprojAssemblyReference.cache
+C:\Users\absalon\source\repos\AireSpring.Test\AireSpring.DAL\obj\Debug\AireSpring.DAL.csproj.CoreCompileInputs.cache
+C:\Users\absalon\source\repos\AireSpring.Test\AireSpring.DAL\obj\Debug\AireSpring.DAL.dll
+C:\Users\absalon\source\repos\AireSpring.Test\AireSpring.DAL\obj\Debug\AireSpring.DAL.pdb
+C:\Users\absalon\source\repos\AireSpring.Test\AireSpring.DAL\bin\Debug\AireSpring.DAL.dll.config
